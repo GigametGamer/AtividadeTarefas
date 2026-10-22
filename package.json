@@ -1,0 +1,26 @@
+{
+  "name": "atividadetarefas",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GigametGamer/AtividadeTarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GigametGamer/AtividadeTarefas/issues"
+  },
+  "homepage": "https://github.com/GigametGamer/AtividadeTarefas#readme",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "mariadb": "^3.5.4",
+    "mysql2": "^3.24.6"
+  }
+}
